@@ -28,5 +28,10 @@
     "hooks": {
       "pre-commit": "yarn run lint"
     }
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "sqlite3": "^5.0.0",
+    "typeorm": "^0.2.25"
   }
 }
