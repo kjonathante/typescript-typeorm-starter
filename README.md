@@ -1,7 +1,7 @@
-# NodeJS Typescript Starter with eslint, prettier and husky
+# TypeORM with Typescript & NodeJS
 
-### references:
-1. https://khalilstemmler.com/blogs/typescript/node-starter-project/
-2. https://khalilstemmler.com/blogs/typescript/eslint-for-typescript/
-3. https://khalilstemmler.com/blogs/tooling/prettier/
-4. https://khalilstemmler.com/blogs/tooling/enforcing-husky-precommit-hooks/
+### References:
+1. https://www.youtube.com/watch?v=LAzwTlj83EI&list=PLN3n1USn4xlmlo0GtSjIeWGXe_Ndo9sYd&index=2
+
+### Base Repo:
+1. https://github.com/kjonathante/typescript-nodejs-starter
